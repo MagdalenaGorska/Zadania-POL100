@@ -1,0 +1,8 @@
+jowitawolska@op.pl	Jowita Wolska	K	123.45	2020-07-30
+skibaludwika@wp.pl	Ludwika Skiba	K	210.37	2021-02-18
+awojcik@gmail.com	Anastazja Wójcik	K	456.32	2020-12-31
+zdzislaw75@up.eu.pl	Zdzisław Kosiński	M	300.00	2021-05-31
+kurek@onet.pl	Igor Kurek	M	599.90	2021-01-01
+cypianKowalczyk@gmail.com	Cyprian Kowalczyk	M	789.50	2021-06-07
+andrzejnowak@up.eu.pl	Andrzej Nowak	M	150.00	2021-02-03
+wilczynska_emilia.op.eu	Emilia Wilczyńska	K	1750.00	2021-05-15
